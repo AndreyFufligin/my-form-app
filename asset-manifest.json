@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-form-app/static/css/main.51dd3fa8.css",
+    "main.js": "/my-form-app/static/js/main.90b1f1f9.js",
+    "index.html": "/my-form-app/index.html",
+    "main.51dd3fa8.css.map": "/my-form-app/static/css/main.51dd3fa8.css.map",
+    "main.90b1f1f9.js.map": "/my-form-app/static/js/main.90b1f1f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51dd3fa8.css",
+    "static/js/main.90b1f1f9.js"
+  ]
+}
