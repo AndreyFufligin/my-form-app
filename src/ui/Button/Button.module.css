@@ -1,0 +1,33 @@
+.button {
+    width: 160px;
+    height: 52px;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button[type="submit"] {
+    background-color: #005eff;
+    color: #ffffff;
+    border: none;
+}
+
+.button[type="submit"]:hover {
+    background-color: #0047d9;
+    box-shadow: 0 4px 8px rgba(0, 94, 255, 0.2);
+}
+
+.button[type="button"] {
+    background-color: #e0f7fa;
+    color: #0663EF;
+    border: none;
+}
+
+.button[type="button"]:hover {
+    background-color: #b2ebf2;
+    box-shadow: none;
+}
